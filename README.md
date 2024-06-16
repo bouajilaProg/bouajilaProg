@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yessine Bouajla</h1>
-<h3 align="center">With a goal to be an embedded system developer and a software engineer</h3>
+<h3 align="center"> An IT student with a goal to be an embedded system developer and a software engineer</h3>
 
 - 🔭 I’m currently working on [ask-tunisia](https://ask-tunisia.vercel.app/)
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bouajlaprog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bouajlaprog" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed yessine bouajila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="30" width="40" /></a>
+<a href="https://twitter.com/Bouajila166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bouajlaprog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila-3751b0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
