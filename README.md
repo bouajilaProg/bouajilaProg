@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yessine Bouajla</h1>
 <h3 align="center"> An IT student with a goal to be an embedded system developer and a software engineer</h3>
 
-- 🔭 I’m currently working on [ask-tunisia](https://ask-tunisia.vercel.app/) and *Bilio*
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning **next.js , rust , c++**
 
