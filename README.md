@@ -2,7 +2,9 @@
 
 **`Tech Lover(full stack Developer/ linux nerd)`**
  <p align="left">
-I'm a full-stack developer, competitive programmer, and an aspiring inventor who loves to create solutions and systems that push the boundaries of technology. My passion for tech spans across Linux, cloud computing, and servers, but it doesn't stop there—I'm also deeply interested in AI, IoT, and robotics. I thrive on exploring new realms and crafting innovative ways to solve problems, always aiming to turn ideas into reality.
+
+I’m a full-stack developer, competitive programmer, and an aspiring inventor who loves to create solutions and systems that push the boundaries of technology. My passion for tech spans across Linux, backend development, cloud computing, and servers. I’m also deeply interested in AI, IoT, and robotics. I thrive on exploring new realms and crafting innovative ways to solve problems, always aiming to turn ideas into reality.
+
  </p>
 
 #
