@@ -3,7 +3,7 @@
 **`Tech Lover(full stack Developer/ linux nerd)`**
  <p align="left">
 
-I’m a full-stack developer, competitive programmer, and an aspiring inventor who loves to create solutions and systems that push the boundaries of technology. My passion for tech spans across Linux, backend development, cloud computing. I’m also deeply interested in AI, IoT, and robotics. I thrive on exploring new realms and crafting innovative ways to solve problems, always aiming to turn ideas into reality.
+I’m a full-stack developer, competitive programmer, and an aspiring inventor who loves to create solutions that push the boundaries of technology. My passion for tech spans across Linux, backend development, cloud computing. I’m also deeply interested in AI, IoT, and robotics. I thrive on exploring new realms and crafting innovative ways to solve problems, always aiming to turn ideas into reality.
 
  </p>
 
@@ -18,8 +18,8 @@ I’m a full-stack developer, competitive programmer, and an aspiring inventor w
 
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila-3751b0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bouajilamedyessine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bouajilamedyessine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila-3751b0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/bouajilamedyessine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bouajilamedyessine" height="40" width="40" /></a>
 </p>
 
 #
