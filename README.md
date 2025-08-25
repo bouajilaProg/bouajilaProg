@@ -91,6 +91,6 @@ I’m a full-stack developer, competitive programmer, and an aspiring inventor w
 ### 📊 Stats
 
 
-<p><a href="https://github.com/Gurupreet">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouajilaProg&theme=dracula&hide_langs_below=1" />
-</a></p>
+</p>
