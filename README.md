@@ -25,7 +25,7 @@ I’m a full-stack developer, competitive programmer, and an aspiring inventor w
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,nextjs,react,js,ts,html,css,bootstrap,tailwind,c,arduino,python,unity,git,postgresql,blender,docker,jupyter" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,nextjs,react,js,ts,html,css,tailwind,c,arduino,python,unity,git,postgresql,blender,docker" />
 </p>
 
 
