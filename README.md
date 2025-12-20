@@ -17,8 +17,10 @@ I’m a full-stack developer, competitive programmer, and an aspiring inventor w
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bouajilaProg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 </p>
+
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila-3751b0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/bouajilamedyessine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bouajilamedyessine" height="40" width="40" /></a>
 </p>
 
