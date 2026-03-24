@@ -1,39 +1,28 @@
-# bouajilaProg
+# mohamed yessine bouajila
 
-**`Tech Lover(full stack Developer/ linux nerd)`**
- <p align="left">
+**`Full-Stack Developer | Linux | Workflow Optimization`**
 
-I’m a full-stack developer, competitive programmer, and an aspiring inventor who loves to create solutions that push the boundaries of technology. My passion for tech spans across Linux, backend development, cloud computing. I’m also deeply interested in AI, IoT, and robotics. I thrive on exploring new realms and crafting innovative ways to solve problems, always aiming to turn ideas into reality.
+I work on improving how software is built, deployed, and maintained.  
+Most of my effort goes into reducing friction, removing repetition, and making systems easier to operate.
 
- </p>
-
-#
-
-### Connect with me
-<p align="left">
- <a href="https://github.com/bouajilaProg?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bouajilaProg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/bouajilaProg?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bouajilaProg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-</p>
+<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=none" height="20" /></a>&nbsp;&nbsp;<a href="https://www.bouajilaprog.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=none" height="20" /></a>
 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yessine bouajila" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/bouajilamedyessine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bouajilamedyessine" height="40" width="40" /></a>
-</p>
 
+## Projects
 
-### 🧰 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,nextjs,react,js,ts,html,css,tailwind,c,arduino,python,unity,git,postgresql,blender,docker" />
-</p>
+<details>
+  <summary><b>AutoResume</b> — https://www.bouajilaprog.com/projects/autoresume</summary>
+  <p>
+    A resume system built around structured data instead of static documents.
+    It enables generating multiple tailored versions from a single source with fast iteration and consistent PDF output.
+  </p>
+</details>
 
-
-### 📊 Stats
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouajilaProg&theme=dracula&hide_langs_below=1" />
-</p>
+<details>
+  <summary><b>CodeDown</b> — https://www.bouajilaprog.com/projects/codedown</summary>
+  <p>
+    A CLI tool that converts Markdown into clean, syntax-highlighted PDFs.
+    Designed for repeatable documentation workflows with minimal setup and predictable output.
+  </p>
+</details>
