@@ -5,7 +5,7 @@
 I work on improving how software is built, deployed, and maintained.  
 Most of my effort goes into reducing friction, removing repetition, and making systems easier to operate.
 
-<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=none" height="20" /></a>&nbsp;&nbsp;<a href="https://www.bouajilaprog.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=none" height="20" /></a>
+<a href="https://www.linkedin.com/in/mohamed-yessine-bouajila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=none" height="20" /></a>&nbsp;&nbsp;<a href="https://www.bouajila.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=none" height="20" /></a>
 
 
 
